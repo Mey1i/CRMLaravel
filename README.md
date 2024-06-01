@@ -1,5 +1,5 @@
 Project Overview
-This Laravel project provides a comprehensive set of features, including user registration, support messaging, and an extensive admin interface for managing various aspects of the site.
+    This Laravel project provides a comprehensive set of features, including user registration, support messaging, and an extensive admin interface for CRM system in the site.
 Features
 User Interface
 User Registration: Allows users to sign up on the site.
